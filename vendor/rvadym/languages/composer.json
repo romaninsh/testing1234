@@ -1,0 +1,15 @@
+{
+    "name": "rvadym/languages",
+    "type": "library",
+    "version": "4.3",
+    "keywords": ["language switcher","atk4"],
+    "homepage": "https://github.com/rvadym/languages",
+    "source": {
+        "url": "git@github.com:rvadym/languages.git",
+        "type": "git",
+        "reference": "origin/master"
+    },
+    "autoload": {
+        "files": ["/spyc/spyc.php"]
+    }
+}

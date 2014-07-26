@@ -1,0 +1,5 @@
+<?php
+$config['project_instalation_config'] = 'TDNkM2R5OWhaMmxzWlhSdmIyeHJhWFF0WW5WdVpHeGxMbUZuYVd4bE5UVXVZMjl0LWM1ZmJjNzQzODNjYWM5OTQ4ZjRlNTNlNGYwM2Q4ODM0'; 
+$config['certificate'] = 'YSPsBpPYjS2JjB2XdlpfmpqBJOZh0yB7W4OHKRcOK3FyKXE3kDCwnSAam0pBJ7Q0JlxZTvRePW6NTua9zq3aH2LUNJWKRJm3J8EmRM3j0Ne6v91/8LFx0fZ2DFuPwjA9CopEhqDPl3MYbrvriPjgVFXfxV2xvNwxKBEIcbFNqhdmMjtuS4/x6i3wbWVVIQi5LauXtGnfjn+qZcaHedxaS9sem/54yponkXzv8nDwbjPIa45pafWgddHXGmsa8tb2luDPRNb9qLXEo49mBrey8tw4SU4M++72mCp4Q7qLJWv2T8GZtPuPWBd8j9Fy1d6nE4qEgic6Y8YmsNDI1mc+QQ==:eyJjZXJ0X2V4cGlyZXNfZHRzIjoxNDA2NDA4Njg3LCJjZXJ0X2lzc3VlZF9kdHMiOjE0MDYzOTQyODcsInBsYW4iOm51bGwsInVpaWQiOiJmODkyOTdjYTg4NWIyNTM2NzJkYjQzZTQwY2U5NjAxYTFkNjk4MmU1IiwidmVyc2lvbiI6IjIifQ=='; 
+$config['installation_hash'] = 'f89297ca885b253672db43e40ce9601a1d6982e5'; 
+$config['name'] = 'My Project showing to gita.'; 

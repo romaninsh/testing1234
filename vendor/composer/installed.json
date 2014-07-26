@@ -1,0 +1,172 @@
+[
+    {
+        "name": "atk4/atk4",
+        "version": "4.3.x-dev",
+        "version_normalized": "4.3.9999999.9999999-dev",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/atk4/atk4.git",
+            "reference": "origin/4.3"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "http://agiletoolkit.org/distfiles/agiletoolkit-4.2.4.zip",
+            "reference": null,
+            "shasum": null
+        },
+        "time": "2013-12-13 13:13:44",
+        "type": "library",
+        "installation-source": "source",
+        "autoload": {
+            "psr-0": {
+                "": "lib/"
+            },
+            "files": [
+                "/lib/static.php"
+            ]
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "homepage": "https://agiletoolkit.org/",
+        "keywords": [
+            "atk4",
+            "framework"
+        ]
+    },
+    {
+        "name": "rvadym/blog",
+        "version": "dev-master",
+        "version_normalized": "9999999-dev",
+        "source": {
+            "type": "git",
+            "url": "git@github.com:rvadym/blog.git",
+            "reference": "origin/master"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/rvadym/blog/zipball/21e7eb1cf3edc53698d00dd17dbf757694eb6e3c",
+            "reference": "21e7eb1cf3edc53698d00dd17dbf757694eb6e3c",
+            "shasum": ""
+        },
+        "time": "2014-02-20 15:22:09",
+        "type": "library",
+        "installation-source": "source",
+        "homepage": "https://github.com/rvadym/blog",
+        "keywords": [
+            "atk4",
+            "blog"
+        ],
+        "support": {
+            "source": "https://github.com/rvadym/blog/tree/master",
+            "issues": "https://github.com/rvadym/blog/issues"
+        }
+    },
+    {
+        "name": "educoder/pest",
+        "version": "1.0.0",
+        "version_normalized": "1.0.0.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/educoder/pest.git",
+            "reference": "7c4d24d6aafc4ebac711c73cc8797d9b1779525b"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/educoder/pest/zipball/7c4d24d6aafc4ebac711c73cc8797d9b1779525b",
+            "reference": "7c4d24d6aafc4ebac711c73cc8797d9b1779525b",
+            "shasum": ""
+        },
+        "require": {
+            "lib-curl": "*",
+            "php": ">=5.2"
+        },
+        "time": "2013-11-17 12:58:01",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "classmap": [
+                ""
+            ]
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "Matt Zukowski",
+                "email": "matt@zukowski.ca"
+            },
+            {
+                "name": "Donald Sipe",
+                "email": "donald.sipe@gmail.com"
+            }
+        ],
+        "description": "A proper REST client for PHP.",
+        "homepage": "https://github.com/educoder/pest"
+    },
+    {
+        "name": "rvadym/languages",
+        "version": "dev-master",
+        "version_normalized": "9999999-dev",
+        "source": {
+            "type": "git",
+            "url": "git@github.com:rvadym/languages.git",
+            "reference": "origin/master"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/rvadym/languages/zipball/b3196616f9fcd25e2fd354b804ca5a14d58d4ae4",
+            "reference": "b3196616f9fcd25e2fd354b804ca5a14d58d4ae4",
+            "shasum": ""
+        },
+        "time": "2014-02-11 16:09:40",
+        "type": "library",
+        "installation-source": "source",
+        "autoload": {
+            "files": [
+                "/spyc/spyc.php"
+            ],
+            "psr-0": {
+                "rvadym\\languages": "lib/"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "homepage": "https://github.com/rvadym/languages",
+        "keywords": [
+            "atk4",
+            "language switcher"
+        ]
+    },
+    {
+        "name": "rvadym/x_tinymce",
+        "version": "dev-master",
+        "version_normalized": "9999999-dev",
+        "source": {
+            "type": "git",
+            "url": "git@github.com:rvadym/x_tinymce.git",
+            "reference": "origin/4.3"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/rvadym/x_tinymce/zipball/f059356a8d492e241635b6d5f5dba49b6d776ad4",
+            "reference": "f059356a8d492e241635b6d5f5dba49b6d776ad4",
+            "shasum": ""
+        },
+        "time": "2014-06-09 05:14:27",
+        "type": "library",
+        "installation-source": "source",
+        "autoload": {
+            "psr-0": {
+                "rvadym\\tinymce": "lib/"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "homepage": "https://github.com/rvadym/x_tinymce",
+        "keywords": [
+            "addon",
+            "atk4",
+            "framework",
+            "tinymce"
+        ]
+    }
+]
